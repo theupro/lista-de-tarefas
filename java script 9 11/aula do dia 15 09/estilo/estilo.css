@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px;
+    background-color: rgb(200, 175, 223);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size:40px;
+    color: chocolate;
+    letter-spacing:-0.05;
+    text-shadow:1px 1px 1px #666;
+}
+
+h3{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style:italic;
+font-size:20px;
+color:#FC6;
+text-shadow:1px 1 px 1px #666;
+}
+p, li, section{
+    color: #333;
+    margin: bottom 5px;;
+}
+
+section{
+margin-bottom:100px;
+}
+footer{
+    height:350px;
+}

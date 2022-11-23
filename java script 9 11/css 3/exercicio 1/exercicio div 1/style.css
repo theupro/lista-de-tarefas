@@ -1,0 +1,37 @@
+
+html{
+
+background-color: #e9e6e6;
+}
+body
+
+{
+    margin-top: 0;
+}
+
+principal{
+width: 730px;
+margin: 0%;
+background-color: #fc3;
+padding: 10px;
+
+}
+#principal::after{
+content:"";
+display: table;
+clear: both;
+
+}
+
+.janela{
+
+float: left;
+width: 350px;
+background: #fc3;
+padding: 5px;
+margin-right: 5px;
+
+}
+p{
+    margin: 0%;
+}
